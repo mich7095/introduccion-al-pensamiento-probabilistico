@@ -368,3 +368,5 @@ Este tipo de algoritmos nos permiten generar una árbol que tenemos que recorrer
 Recuerda que la decisión de qué algoritmo utilizar depende de la forma en la que tengas tus datos y la precisión que desees obtener (a cambio de excluir o incluir falsos positivos y negativos). Otro punto a considerar es que estos algoritmos deben ser entrenados con datos previos y la calidad de estos datos y del modelo subsecuente importan mucho para obtener la mejor clasificación.
 ​
 Te invito a que consultes la documentación de Scikit-learn para que puedas profundizar en la forma en que funcionan estos algoritmos (y muchos otros) y puedas saber qué tipo de parámetros se pueden ajustar y cuál es la forma de los datos que esperan. Aquí está el vínculo a la [documentación.](https://scikit-learn.org/stable/user_guide.html)
+
+<img src="readme_img/platziDoro.jpg">
