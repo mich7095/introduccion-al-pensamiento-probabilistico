@@ -8,7 +8,7 @@
 
 # Introducción al documento
 
-El contenido de este documento esta basado en el curso del mismo nombre dictado por [David Aroesti](https://github.com/jdaroesti) en [Platzi](https://platzi.com/r/karlbehrens/).
+El contenido de este documento esta basado en el curso del mismo nombre dictado por [David Aroesti](https://github.com/jdaroesti) en [Platzi](https://platzi.com/r/michel_brmdz/).
 
 # Tabla de contenido
 - [Programación probabilística](#Programación-probabilística)
@@ -369,4 +369,6 @@ Recuerda que la decisión de qué algoritmo utilizar depende de la forma en la q
 ​
 Te invito a que consultes la documentación de Scikit-learn para que puedas profundizar en la forma en que funcionan estos algoritmos (y muchos otros) y puedas saber qué tipo de parámetros se pueden ajustar y cuál es la forma de los datos que esperan. Aquí está el vínculo a la [documentación.](https://scikit-learn.org/stable/user_guide.html)
 
-<img src="readme_img/platziDoro.jpg">
+<div align="center">
+  <img src="readme_img/platziDoro.jpg" width= 85%>
+</div>
